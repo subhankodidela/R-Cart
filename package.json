@@ -1,0 +1,22 @@
+{
+  "name": "r-cart",
+  "version": "1.0.0",
+  "description": "R-Cart sample shopping cart application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "cart",
+    "shop",
+    "sample",
+    "node",
+    "express"
+  ],
+  "author": "Subhan Kodidela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

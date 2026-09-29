@@ -1,0 +1,34 @@
+[
+  {
+    "id": "p-101",
+    "name": "Classic Hoodie",
+    "category": "Apparel",
+    "price": 49.99,
+    "stock": 25,
+    "description": "A comfortable everyday hoodie in a premium cotton blend."
+  },
+  {
+    "id": "p-102",
+    "name": "Smart Water Bottle",
+    "category": "Lifestyle",
+    "price": 29.5,
+    "stock": 40,
+    "description": "Insulated bottle with temperature retention and a leak-proof lid."
+  },
+  {
+    "id": "p-103",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 79.0,
+    "stock": 18,
+    "description": "Compact earbuds with noise isolation and a long-lasting battery."
+  },
+  {
+    "id": "p-104",
+    "name": "Desk Lamp",
+    "category": "Home",
+    "price": 34.99,
+    "stock": 30,
+    "description": "Minimalist LED desk lamp with adjustable brightness settings."
+  }
+]
